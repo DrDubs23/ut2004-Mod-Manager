@@ -1,12 +1,5 @@
----
-
 # UT2004 Mod Manager
 
-**UT2004 Mod Manager** is a desktop application designed to make managing mods for **Unreal Tournament 2004** easier, cleaner, and more reliable.
-
-It helps you organize, install, and manage mods without manually digging through folders or worrying about breaking your game install.
-
----
 
 ## Features
 
